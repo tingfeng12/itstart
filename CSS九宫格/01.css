@@ -1,0 +1,14 @@
+.main{
+	background-color: #fff;
+	width: 100%;
+	padding-bottom: 100%;
+	padding-left: 0.5%;
+	padding-top: 0.5%;
+}
+.wrap {
+	width: 30%;
+	padding-bottom: 30%;
+	background-color:#FFA600;
+	float: left;
+	margin: 1%;
+}
